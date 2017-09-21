@@ -25,9 +25,6 @@ function validateForm() {
 }
 </script>
 
-
-
-
 </head>
 
 <body><br>

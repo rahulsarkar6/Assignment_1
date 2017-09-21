@@ -19,13 +19,13 @@
 </head>
 <body>
 
-		<div class="container" align="center">
+		<div class="container" align="left">
 			<div class="col-sm-10" style="width: 600px; margin-left: 250; margin-top:20px" ">
 				<div class="jumbotron">
 					<div class="form-group">
 						<h1>Register</h1>
 						<form method="post" action="Register">
-							<table align="center">
+							<table>
 							<tr>
 								<div class="form-inline" >
 							   	 <input type="text" class="form-control" id="firstName" placeholder="First Name" required="required">
